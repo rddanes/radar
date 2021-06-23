@@ -34,6 +34,7 @@ themes:
       While some have already adopted Cluster API, a larger number of surveyed companies are still assessing it. The Radar team felt that there was probably more testing and trialing of the tool taking place than use in production. They found the prospect of compressing cluster-deployment and core-services tooling into one solution attractive, but expressed the idea that Cluster API is not adequately mature yet. They acknowledged that development seems to be advancing rapidly.
 
       Also, while current tooling is messy, it is working, and trialing and migrating require time, work and resources. Among contingencies that might push the team to adopt Cluster API, include: (1) it accomplishes all that kOps does and a few additional things; (2) breakout success stories in the news and social media make it hard to ignore; (3) worsening of pain points.
+video: https://youtu.be/mjg_x9iYEIc
 team:
   - name: Gabe Jackson
     photo: https://avatars.githubusercontent.com/u/3694686?v=4
